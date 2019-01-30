@@ -6,7 +6,7 @@
         <archetype>
             <groupId>es.babel</groupId>
             <artifactId>base-project</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.0</version>
             <repository>https://github.com/PauMB85/mvn-archetype-example</repository>
             <description>Example archetype mvn</description>
         </archetype>
